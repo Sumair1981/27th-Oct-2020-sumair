@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Muhammad Sumair Kaleem
+tagline: Computer Software Engineer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I am a computer software engineer from west south Asia having 3 years of diploma from Aptech computer education and a bachelors in computer sciences from Dadabhoy institute of higher education Karachi, Sindh, Pakistan.
+
+Else I have completed my other computer’s hardware and networks diploma, A+ Dos Windows Service Technician, some Adobe & Macromedia graphics certifications, completed Advanced SEO and SEO Manager as well. Having 10 years experience of accounts, sales and administration.
