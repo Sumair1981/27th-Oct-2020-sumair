@@ -5,6 +5,9 @@ title: About Me
 ---
 Life & Future Engineering
 Drink at least 6 to 12 glasses of water for every 24 hours
+
+![Branding](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg)
+
 1) Food & Nutrition
 With food and agriculture engineering sciences, we can achieve the proper intake of carbohydrates, proteins, and vitamins. Here’s where to find them:
 ● Carbohydrates – find them in vegetables and rice.
@@ -36,5 +39,5 @@ services, products, brand and logo.
 Cash, cheque payment or online payment transactions also ensure ease-of-use experience.
 Everything mentioned above is for a better Future – Mustakbil.
 
-![Branding](https://drive.google.com/file/d/1Bj1gMfschzYxcPMkh2WbXWowsSKsWk0v/view?usp=sharing)
+Just send a message on [Linkedin](https://www.linkedin.com/in/muhammad-sumair-kaleem-76803433/)
 
