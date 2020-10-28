@@ -39,3 +39,5 @@ services, products, brand and logo.
 Cash, cheque payment or online payment transactions also ensure ease-of-use experience.
 Everything mentioned above is for a better Future – Mustakbil.
 
+Just send a message on [Linkedin](https://www.linkedin.com/in/muhammad-sumair-kaleem-76803433/)
+
