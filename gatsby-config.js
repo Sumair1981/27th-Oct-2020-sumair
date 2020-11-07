@@ -3,6 +3,20 @@
  *
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
+
+module.exports = {
+plugins: [
+{
+resolve: 'gatsby-source-graphql',
+options: {
+typename: 'WPGraphQL',
+fieldName: 'wpgraphql',
+url: 'https://764d88f393a7.ngrok.io/graphql',
+},
+},
+],
+}
+
 const netlifyCmsPaths = {
   resolve: `gatsby-plugin-netlify-cms-paths`,
   options: {
