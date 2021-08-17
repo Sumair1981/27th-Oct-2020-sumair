@@ -39,5 +39,5 @@ services, products, brand and logo.
 Cash, cheque payment or online payment transactions also ensure ease-of-use experience.
 Everything mentioned above is for a better Future – Mustakbil.
 
-Just send a message on [Facebook](https://www.facebook.com/msumairkaleem/)
+Goto [Facebook](https://www.facebook.com/msumairkaleem/) or Email: smrkalim1@gmail.com or WhatsApp: +923332293499
 
