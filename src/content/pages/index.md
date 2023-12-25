@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: M.Sumair Kaleem
-tagline: Computer Software Engineer - Freelancer - Digital Content Producer - SEO Manager - Blogger - Affiliate Marketer
+tagline: Computer Software Engineer - Freelancer - Digital Content Producer - SEO Manager - Blogger - Affiliate Marketer - SEO Marketing Engineer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
