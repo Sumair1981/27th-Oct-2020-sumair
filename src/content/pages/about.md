@@ -55,5 +55,4 @@ Cash, cheque payment or online payment transactions also ensure ease-of-use expe
 Everything mentioned above is for a better Future – Mustakbil.
 
 
-Goto [Linkedin](https://www.linkedin.com/in/m-sumair-kaleem-76803433/) and [Youtube](https://www.youtube.com/channel/UCibh1cbp_0yBgBTL4ujLLcg) or [WhatsApp](https://api.whatsapp.com/send?phone=923332293499)
-
+Goto [Linkedin](https://www.linkedin.com/in/m-sumair-kaleem-76803433/) and [Youtube](https://www.youtube.com/channel/UCibh1cbp_0yBgBTL4ujLLcg) and [WhatsApp](https://api.whatsapp.com/send?phone=923332293499) or [E-mail](mailto:smrkalim1@gmail.com)
